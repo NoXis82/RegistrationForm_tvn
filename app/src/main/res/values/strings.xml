@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="text_hint_login">Login</string>
+    <string name="text_hint_password">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnReg">Registration</string>
+    <string name="fill_blanks">Заполните поля</string>
+    <string name="success_reg">Регистрация успешна</string>
+    <string name="no_access">Неверный логин или пароль</string>
+    <string name="access">Верный логин и пароль</string>
+</resources>
